@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="https://github.com/ahmedseaf/egy-web.git">
+  <component name="PublishConfigData" serverName="https://github.com/ahmedseaf/egy-web.git" uploadOnCheckin="a9a9ba1f-737f-4a00-ada4-02f6788f4b5c">
     <serverData>
       <paths name="https://github.com/ahmedseaf/egy-web.git">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/ahmedseaf/egy-web.git" />
   </component>
 </project>
